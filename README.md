@@ -19,7 +19,7 @@ I'm a student who loves exploring the world of programming. As a beginner, I'm f
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+https://www.linkedin.com/in/abhinav-v-07665a323/
 
 ---
 
