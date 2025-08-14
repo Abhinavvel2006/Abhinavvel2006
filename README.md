@@ -1,7 +1,7 @@
 # Hi there, I'm Abhinavvel2006 👋
 
 🎓 **Student & Aspiring Developer**  
-🐍 Currently learning **Python**  
+🐍 Currently learning **Python** and **Full Stack developer** 
 💡 **Passionate about studying programming and technology**  
 🌱 **Beginner, eager to build projects and grow my skills**
 
