@@ -2,12 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Simple Pong Game</title>
+    <title>Pong Game</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <audio id="hitsound" src="retro-hurt-2-236675.mp3" preload="auto"></audio>
+    <audio id="scoreSound" src="8-bit-retro-game-sound-effect-1-123456.mp3" preload="auto"></audio>
     <h1>Simple Pong</h1>
-    <canvas id="pongCanvas" width="700" height="400"></canvas>
+
+    <div class="dropdown">
+        <button class="dropbtn">Controls</button>
+        <div class="dropdown-content">
+            <button id="startButton">Start</button>
+            <button id="pauseButton">Pause</button>
+            <button id="resetButton">Reset</button>
+        </div>
+    </div>
+
+    <canvas id="pongCanvas" width="800" height="500"></canvas>
+
     <script src="game.js"></script>
 </body>
 </html>
